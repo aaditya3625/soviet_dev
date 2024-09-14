@@ -1,0 +1,465 @@
+﻿Oblast,Obl_ID,Year,Crude Birth Rate,Agricultural Employment as % of Rural Population
+USSR,0,1950,26.7,28.5
+USSR,0,1951,27,
+USSR,0,1952,26.5,
+USSR,0,1953,25.1,
+USSR,0,1954,26.6,
+USSR,0,1955,25.7,
+USSR,0,1956,25.2,
+USSR,0,1957,25.4,29.3
+USSR,0,1958,25.3,29.2
+USSR,0,1959,25,28.6
+USSR,0,1960,24.9,26.6
+USSR,0,1961,23.8,26.2
+USSR,0,1962,20.4,26
+USSR,0,1963,21.2,25.5
+USSR,0,1964,19.6,25.6
+USSR,0,1965,18.4,25.9
+USSR,0,1966,18.2,26.2
+USSR,0,1967,17.3,26.1
+USSR,0,1968,17.2,25.8
+USSR,0,1969,17,25.1
+USSR,0,1970,17.4,24.5
+USSR,0,1971,17.8,24.7
+USSR,0,1972,17.8,24.9
+USSR,0,1973,17.6,25.3
+USSR,0,1974,18,25.7
+USSR,0,1975,18.1,25.9
+USSR,0,1976,18.4,26.1
+USSR,0,1977,18.6,
+USSR,0,1978,18.8,
+RSFSR,1,1950,26.9,27.7
+RSFSR,1,1951,27.1,
+RSFSR,1,1952,26.7,
+RSFSR,1,1953,25.1,
+RSFSR,1,1954,26.8,
+RSFSR,1,1955,25.6,28
+RSFSR,1,1956,24.4,27.6
+RSFSR,1,1957,24.7,27.3
+RSFSR,1,1958,24.2,26.4
+RSFSR,1,1959,23.7,25.3
+RSFSR,1,1960,23.2,24.3
+RSFSR,1,1961,21.9,23.9
+RSFSR,1,1962,20.2,23.9
+RSFSR,1,1963,18.8,23.6
+RSFSR,1,1964,16.9,23.8
+RSFSR,1,1965,15.8,24
+RSFSR,1,1966,15.4,24.2
+RSFSR,1,1967,14.5,24.7
+RSFSR,1,1968,14.2,24.5
+RSFSR,1,1969,14.2,24
+RSFSR,1,1970,14.6,23.2
+RSFSR,1,1971,15.1,23.7
+RSFSR,1,1972,15.3,23.8
+RSFSR,1,1973,15,24.5
+RSFSR,1,1974,15.6,24.9
+RSFSR,1,1975,15.7,25
+RSFSR,1,1976,15.4,
+RSFSR,1,1977,16.1,
+RSFSR,1,1978,16.3,
+Latvian SSR,2,1950,17,20.9
+Latvian SSR,2,1951,16.7,
+Latvian SSR,2,1952,16.3,
+Latvian SSR,2,1953,15.6,
+Latvian SSR,2,1954,16.6,
+Latvian SSR,2,1955,16.4,
+Latvian SSR,2,1956,16,
+Latvian SSR,2,1957,16.3,33.4
+Latvian SSR,2,1958,16.8,33.3
+Latvian SSR,2,1959,16.7,34.1
+Latvian SSR,2,1960,16.7,32.6
+Latvian SSR,2,1961,16.7,33.2
+Latvian SSR,2,1962,16.1,32.9
+Latvian SSR,2,1963,15.4,32.1
+Latvian SSR,2,1964,14.8,39.9
+Latvian SSR,2,1965,13.9,32.2
+Latvian SSR,2,1966,14.1,31.9
+Latvian SSR,2,1967,14,31.8
+Latvian SSR,2,1968,14.1,31.5
+Latvian SSR,2,1969,14,29.4
+Latvian SSR,2,1970,14.5,27.7
+Latvian SSR,2,1971,14.7,28.5
+Latvian SSR,2,1972,15.6,28.1
+Latvian SSR,2,1973,13.9,28.3
+Latvian SSR,2,1974,14.2,28.2
+Latvian SSR,2,1975,14,28.3
+Latvian SSR,2,1976,13.9,28.3
+Latvian SSR,2,1977,13.8,
+Latvian SSR,2,1978,13.8,
+Estonian SSR,3,1950,18.7,29.1
+Estonian SSR,3,1951,18.8,
+Estonian SSR,3,1952,18.9,
+Estonian SSR,3,1953,17.8,
+Estonian SSR,3,1954,18.4,
+Estonian SSR,3,1955,18.2,
+Estonian SSR,3,1956,16.9,
+Estonian SSR,3,1957,16.8,29.9
+Estonian SSR,3,1958,16.7,29.9
+Estonian SSR,3,1959,16.6,29.7
+Estonian SSR,3,1960,16.6,29.2
+Estonian SSR,3,1961,16.2,27.4
+Estonian SSR,3,1962,15.8,27.6
+Estonian SSR,3,1963,15.4,27
+Estonian SSR,3,1964,15.5,27
+Estonian SSR,3,1965,14.8,28.9
+Estonian SSR,3,1966,14.4,28.1
+Estonian SSR,3,1967,14.4,27.7
+Estonian SSR,3,1968,15.1,26.8
+Estonian SSR,3,1969,17.4,25.5
+Estonian SSR,3,1970,17.6,24.7
+Estonian SSR,3,1971,17.6,25.8
+Estonian SSR,3,1972,17,25.5
+Estonian SSR,3,1973,16,26.3
+Estonian SSR,3,1974,15.8,26.3
+Estonian SSR,3,1975,15.7,27.4
+Estonian SSR,3,1976,15.7,
+Estonian SSR,3,1977,15.7,
+Estonian SSR,3,1978,15.8,
+Lithuanian SSR,4,1950,23.6,17.9
+Lithuanian SSR,4,1951,22.5,
+Lithuanian SSR,4,1952,21.7,
+Lithuanian SSR,4,1953,20,
+Lithuanian SSR,4,1954,20.6,
+Lithuanian SSR,4,1955,21.1,
+Lithuanian SSR,4,1956,20.1,
+Lithuanian SSR,4,1957,21.1,31.1
+Lithuanian SSR,4,1958,22.8,30.9
+Lithuanian SSR,4,1959,22.7,29.5
+Lithuanian SSR,4,1960,22.5,29.7
+Lithuanian SSR,4,1961,22.2,28.9
+Lithuanian SSR,4,1962,21,28.4
+Lithuanian SSR,4,1963,19.7,28.3
+Lithuanian SSR,4,1964,19.1,27.5
+Lithuanian SSR,4,1965,18.1,27.9
+Lithuanian SSR,4,1966,18,28.2
+Lithuanian SSR,4,1967,17.7,28.6
+Lithuanian SSR,4,1968,17.6,28.5
+Lithuanian SSR,4,1969,17.4,27.9
+Lithuanian SSR,4,1970,17.6,28.2
+Lithuanian SSR,4,1971,17.6,28.5
+Lithuanian SSR,4,1972,17,28.4
+Lithuanian SSR,4,1973,16,28.3
+Lithuanian SSR,4,1974,15.8,28.1
+Lithuanian SSR,4,1975,15.7,28.4
+Lithuanian SSR,4,1976,15.7,
+Lithuanian SSR,4,1977,15.7,
+Lithuanian SSR,4,1978,15.8,
+Ukrainian SSR,5,1950,22.5,30.4
+Ukrainian SSR,5,1951,,
+Ukrainian SSR,5,1952,,
+Ukrainian SSR,5,1953,,
+Ukrainian SSR,5,1954,,
+Ukrainian SSR,5,1955,,
+Ukrainian SSR,5,1956,20.2,
+Ukrainian SSR,5,1957,,34.2
+Ukrainian SSR,5,1958,,34
+Ukrainian SSR,5,1959,,33.5
+Ukrainian SSR,5,1960,20.5,32.7
+Ukrainian SSR,5,1961,,32.8
+Ukrainian SSR,5,1962,,32.2
+Ukrainian SSR,5,1963,17.9,31.5
+Ukrainian SSR,5,1964,16.5,31.8
+Ukrainian SSR,5,1965,15.3,32.8
+Ukrainian SSR,5,1966,15.6,32.9
+Ukrainian SSR,5,1967,15.1,32.7
+Ukrainian SSR,5,1968,14.9,32.7
+Ukrainian SSR,5,1969,14.7,31.9
+Ukrainian SSR,5,1970,15.2,30.9
+Ukrainian SSR,5,1971,15.5,31.1
+Ukrainian SSR,5,1972,15.5,31.5
+Ukrainian SSR,5,1973,14.9,31.5
+Ukrainian SSR,5,1974,15.1,32
+Ukrainian SSR,5,1975,15.1,31.5
+Ukrainian SSR,5,1976,15.1,
+Ukrainian SSR,5,1977,15.2,
+Ukrainian SSR,5,1978,15.3,
+Belorussian SSR,6,1950,25.6,24.8
+Belorussian SSR,6,1951,25.2,
+Belorussian SSR,6,1952,24.4,
+Belorussian SSR,6,1953,22.5,
+Belorussian SSR,6,1954,24.7,
+Belorussian SSR,6,1955,24.6,
+Belorussian SSR,6,1956,24.8,33.5
+Belorussian SSR,6,1957,25,33.6
+Belorussian SSR,6,1958,25.9,33.2
+Belorussian SSR,6,1959,25.2,32.1
+Belorussian SSR,6,1960,24.5,30
+Belorussian SSR,6,1961,23.2,30
+Belorussian SSR,6,1962,21.9,29.4
+Belorussian SSR,6,1963,20.6,28.9
+Belorussian SSR,6,1964,19,29.1
+Belorussian SSR,6,1965,17.9,29.9
+Belorussian SSR,6,1966,17.7,29.8
+Belorussian SSR,6,1967,16.8,29.9
+Belorussian SSR,6,1968,16.5,30
+Belorussian SSR,6,1969,15.9,29.8
+Belorussian SSR,6,1970,16.2,30
+Belorussian SSR,6,1971,16.4,28.8
+Belorussian SSR,6,1972,16.1,29.4
+Belorussian SSR,6,1973,15.7,29.5
+Belorussian SSR,6,1974,15.8,30
+Belorussian SSR,6,1975,15.7,30.6
+Belorussian SSR,7,1976,16,30.5
+Belorussian SSR,7,1977,16.3,
+Belorussian SSR,7,1978,16.6,
+Moldavian SSR,7,1950,38.9,31
+Moldavian SSR,7,1951,37.8,
+Moldavian SSR,7,1952,32.7,
+Moldavian SSR,7,1953,31.5,
+Moldavian SSR,7,1954,32.5,
+Moldavian SSR,7,1955,30.4,
+Moldavian SSR,7,1956,30.3,
+Moldavian SSR,7,1957,31,34
+Moldavian SSR,7,1958,30.8,32.8
+Moldavian SSR,7,1959,31.5,32.6
+Moldavian SSR,7,1960,29.2,31.2
+Moldavian SSR,7,1961,28.2,31.1
+Moldavian SSR,7,1962,25.6,30.8
+Moldavian SSR,7,1963,24.5,29.8
+Moldavian SSR,7,1964,22.5,30.4
+Moldavian SSR,7,1965,20.4,30.7
+Moldavian SSR,7,1966,21,32.1
+Moldavian SSR,7,1967,20.7,32
+Moldavian SSR,7,1968,20,31.3
+Moldavian SSR,7,1969,19,31.2
+Moldavian SSR,7,1970,19.4,31.2
+Moldavian SSR,7,1971,20.2,31
+Moldavian SSR,7,1972,20.6,32.2
+Moldavian SSR,7,1973,20.4,32.5
+Moldavian SSR,7,1974,20.4,33.3
+Moldavian SSR,7,1975,20.7,32.9
+Moldavian SSR,7,1976,20.9,
+Moldavian SSR,7,1977,21,
+Moldavian SSR,7,1978,21.1,
+Georgian SSR,8,1950,23.5,27.7
+Georgian SSR,8,1951,23.9,
+Georgian SSR,8,1952,24.6,
+Georgian SSR,8,1953,22.6,
+Georgian SSR,8,1954,24.7,
+Georgian SSR,8,1955,24.1,
+Georgian SSR,8,1956,23.7,
+Georgian SSR,8,1957,23,24.9
+Georgian SSR,8,1958,23.4,25
+Georgian SSR,8,1959,24.2,24.5
+Georgian SSR,8,1960,24.7,23.5
+Georgian SSR,8,1961,24.7,22.6
+Georgian SSR,8,1962,23.8,23
+Georgian SSR,8,1963,22.9,23.5
+Georgian SSR,8,1964,21.9,23.2
+Georgian SSR,8,1965,21,23.9
+Georgian SSR,8,1966,20.1,24.3
+Georgian SSR,8,1967,19.3,24.5
+Georgian SSR,8,1968,19.1,23.3
+Georgian SSR,8,1969,18.7,23
+Georgian SSR,8,1970,19.2,23.7
+Georgian SSR,8,1971,19,23.9
+Georgian SSR,8,1972,18,23.9
+Georgian SSR,8,1973,18.2,24.7
+Georgian SSR,8,1974,18.3,25.6
+Georgian SSR,8,1975,18.2,25.6
+Georgian SSR,8,1976,18.4,
+Georgian SSR,8,1977,18.6,
+Georgian SSR,8,1978,18.8,
+Armenian SSR,9,1950,31.5,28.3
+Armenian SSR,9,1951,35.5,
+Armenian SSR,9,1952,37.4,
+Armenian SSR,9,1953,34.5,
+Armenian SSR,9,1954,37.9,
+Armenian SSR,9,1955,37.4,
+Armenian SSR,9,1956,37.9,
+Armenian SSR,9,1957,,24.5
+Armenian SSR,9,1958,,23.9
+Armenian SSR,9,1959,40.2,23.6
+Armenian SSR,9,1960,40.3,22.7
+Armenian SSR,9,1961,,21
+Armenian SSR,9,1962,,21
+Armenian SSR,9,1963,33.1,21.2
+Armenian SSR,9,1964,30.7,20.7
+Armenian SSR,9,1965,29.1,21.5
+Armenian SSR,9,1966,27.7,20.8
+Armenian SSR,9,1967,25,20.4
+Armenian SSR,9,1968,24.6,19.6
+Armenian SSR,9,1969,22.8,19.7
+Armenian SSR,9,1970,22.1,19.7
+Armenian SSR,9,1971,22.6,20
+Armenian SSR,9,1972,22.5,20
+Armenian SSR,9,1973,22.1,20.2
+Armenian SSR,9,1974,21.9,20.5
+Armenian SSR,9,1975,22.4,20.7
+Armenian SSR,9,1976,23,
+Armenian SSR,9,1977,23.4,
+Armenian SSR,9,1978,23.7,
+Azerbaidzhan SSR,10,1950,31.2,32.1
+Azerbaidzhan SSR,10,1951,33.4,
+Azerbaidzhan SSR,10,1952,34.5,
+Azerbaidzhan SSR,10,1953,32,
+Azerbaidzhan SSR,10,1954,36.5,
+Azerbaidzhan SSR,10,1955,37.8,
+Azerbaidzhan SSR,10,1956,39.6,
+Azerbaidzhan SSR,10,1957,39.4,29.9
+Azerbaidzhan SSR,10,1958,40.5,28.3
+Azerbaidzhan SSR,10,1959,41.5,27.7
+Azerbaidzhan SSR,10,1960,42.6,26
+Azerbaidzhan SSR,10,1961,42.2,25.1
+Azerbaidzhan SSR,10,1962,40.3,23.5
+Azerbaidzhan SSR,10,1963,40.4,22.6
+Azerbaidzhan SSR,10,1964,39.6,18.5
+Azerbaidzhan SSR,10,1965,36.4,20.8
+Azerbaidzhan SSR,10,1966,35.2,20.1
+Azerbaidzhan SSR,10,1967,32.4,19.3
+Azerbaidzhan SSR,10,1968,31.9,19
+Azerbaidzhan SSR,10,1969,29.3,17.7
+Azerbaidzhan SSR,10,1970,29.2,18
+Azerbaidzhan SSR,10,1971,27.8,18.1
+Azerbaidzhan SSR,10,1972,25.6,18.5
+Azerbaidzhan SSR,10,1973,25.3,19
+Azerbaidzhan SSR,10,1974,25,19.8
+Azerbaidzhan SSR,10,1975,25.1,19.8
+Azerbaidzhan SSR,10,1976,25.7,
+Azerbaidzhan SSR,10,1977,26.1,
+Azerbaidzhan SSR,10,1978,26.6,
+Kazakh SSR,11,1950,37.6,27
+Kazakh SSR,11,1951,,
+Kazakh SSR,11,1952,,
+Kazakh SSR,11,1953,,
+Kazakh SSR,11,1954,,
+Kazakh SSR,11,1955,36.9,
+Kazakh SSR,11,1956,,
+Kazakh SSR,11,1957,,27.9
+Kazakh SSR,11,1958,,26.5
+Kazakh SSR,11,1959,36.6,26.1
+Kazakh SSR,11,1960,36.7,24.7
+Kazakh SSR,11,1961,35.3,22.9
+Kazakh SSR,11,1962,32.9,22.8
+Kazakh SSR,11,1963,30.4,21.7
+Kazakh SSR,11,1964,27.8,22.1
+Kazakh SSR,11,1965,26.2,22.1
+Kazakh SSR,11,1966,25.1,21.8
+Kazakh SSR,11,1967,24,21.5
+Kazakh SSR,11,1968,23.2,20.5
+Kazakh SSR,11,1969,23.3,19.9
+Kazakh SSR,11,1970,23.4,19.5
+Kazakh SSR,11,1971,23.8,19.9
+Kazakh SSR,11,1972,23.5,19.7
+Kazakh SSR,11,1973,23.2,20.3
+Kazakh SSR,11,1974,24.1,20.5
+Kazakh SSR,11,1975,24.1,20.5
+Kazakh SSR,11,1976,24.4,
+Kazakh SSR,11,1977,24.4,
+Kazakh SSR,11,1978,24.6,
+Kirgiz SSR,12,1950,32.9,25.7
+Kirgiz SSR,12,1951,33.8,
+Kirgiz SSR,12,1952,32.7,
+Kirgiz SSR,12,1953,33.4,
+Kirgiz SSR,12,1954,34.8,
+Kirgiz SSR,12,1955,34,
+Kirgiz SSR,12,1956,34.3,
+Kirgiz SSR,12,1957,34.6,22.9
+Kirgiz SSR,12,1958,34.8,22.9
+Kirgiz SSR,12,1959,33.6,22
+Kirgiz SSR,12,1960,36.8,20.4
+Kirgiz SSR,12,1961,35.5,19.6
+Kirgiz SSR,12,1962,33.6,20.5
+Kirgiz SSR,12,1963,33,20.9
+Kirgiz SSR,12,1964,31.4,20.5
+Kirgiz SSR,12,1965,31,20.5
+Kirgiz SSR,12,1966,30.3,20.3
+Kirgiz SSR,12,1967,29.5,19.8
+Kirgiz SSR,12,1968,30.1,19.1
+Kirgiz SSR,12,1969,30.1,18.5
+Kirgiz SSR,12,1970,30.5,18.1
+Kirgiz SSR,12,1971,31.6,18.1
+Kirgiz SSR,12,1972,30.5,17.7
+Kirgiz SSR,12,1973,30.6,17.5
+Kirgiz SSR,12,1974,30.5,18
+Kirgiz SSR,12,1975,30.4,17.6
+Kirgiz SSR,12,1976,30.7,
+Kirgiz SSR,12,1977,30.8,
+Kirgiz SSR,12,1978,31.1,
+Turkmen SSR,13,1950,38.2,32
+Turkmen SSR,13,1951,,
+Turkmen SSR,13,1952,,
+Turkmen SSR,13,1953,,
+Turkmen SSR,13,1954,,
+Turkmen SSR,13,1955,,
+Turkmen SSR,13,1956,38.5,
+Turkmen SSR,13,1957,39,32.5
+Turkmen SSR,13,1958,39.8,31.1
+Turkmen SSR,13,1959,39.3,24.8
+Turkmen SSR,13,1960,42.4,29.6
+Turkmen SSR,13,1961,41,28.7
+Turkmen SSR,13,1962,40.3,27.3
+Turkmen SSR,13,1963,39.5,27.4
+Turkmen SSR,13,1964,38.1,25.6
+Turkmen SSR,13,1965,37.2,25.8
+Turkmen SSR,13,1966,37.7,25.7
+Turkmen SSR,13,1967,35.6,25.9
+Turkmen SSR,13,1968,35.7,25
+Turkmen SSR,13,1969,34.3,24.5
+Turkmen SSR,13,1970,35.2,24.5
+Turkmen SSR,13,1971,34.7,25
+Turkmen SSR,13,1972,33.9,24.7
+Turkmen SSR,13,1973,34.3,25.3
+Turkmen SSR,13,1974,34.3,26.1
+Turkmen SSR,13,1975,34.4,26.8
+Turkmen SSR,13,1976,34.9,
+Turkmen SSR,13,1977,34.8,
+Turkmen SSR,13,1978,34.9,
+Uzbek SSR,14,1950,30.9,34.5
+Uzbek SSR,14,1951,,
+Uzbek SSR,14,1952,,
+Uzbek SSR,14,1953,,
+Uzbek SSR,14,1954,,
+Uzbek SSR,14,1955,,
+Uzbek SSR,14,1956,,
+Uzbek SSR,14,1957,33.8,26.5
+Uzbek SSR,14,1958,35.5,26.4
+Uzbek SSR,14,1959,37.2,24.3
+Uzbek SSR,14,1960,39.9,23.1
+Uzbek SSR,14,1961,,22.5
+Uzbek SSR,14,1962,,22
+Uzbek SSR,14,1963,36.2,22
+Uzbek SSR,14,1964,35.4,21.7
+Uzbek SSR,14,1965,34.7,21.2
+Uzbek SSR,14,1966,34.1,20.4
+Uzbek SSR,14,1967,33,19.8
+Uzbek SSR,14,1968,34.1,19.6
+Uzbek SSR,14,1969,32.7,19.2
+Uzbek SSR,14,1970,33.6,19.3
+Uzbek SSR,14,1971,34.5,19.1
+Uzbek SSR,14,1972,33.2,19.3
+Uzbek SSR,14,1973,33.7,19.3
+Uzbek SSR,14,1974,34.2,19.7
+Uzbek SSR,14,1975,34.5,19.9
+Uzbek SSR,14,1976,35,
+Uzbek SSR,14,1977,35.1,
+Uzbek SSR,14,1978,35.3,
+Tadzhik SSR,15,1950,30.4,31.2
+Tadzhik SSR,15,1951,30.5,
+Tadzhik SSR,15,1952,34.4,
+Tadzhik SSR,15,1953,32.4,
+Tadzhik SSR,15,1954,32.9,
+Tadzhik SSR,15,1955,33.8,
+Tadzhik SSR,15,1956,34.2,
+Tadzhik SSR,15,1957,33.1,27.8
+Tadzhik SSR,15,1958,29,26.1
+Tadzhik SSR,15,1959,30.3,24.8
+Tadzhik SSR,15,1960,33.4,24
+Tadzhik SSR,15,1961,34,23.2
+Tadzhik SSR,15,1962,33.5,22.5
+Tadzhik SSR,15,1963,34.3,22.3
+Tadzhik SSR,15,1964,34.6,12.4
+Tadzhik SSR,15,1965,36.5,20.1
+Tadzhik SSR,15,1966,35.1,19.4
+Tadzhik SSR,15,1967,34.9,18.7
+Tadzhik SSR,15,1968,36.5,18.5
+Tadzhik SSR,15,1969,34.7,18.2
+Tadzhik SSR,15,1970,34.7,18.1
+Tadzhik SSR,15,1971,36.8,18.5
+Tadzhik SSR,15,1972,35.3,18.1
+Tadzhik SSR,15,1973,35.6,17.7
+Tadzhik SSR,15,1974,37,17.9
+Tadzhik SSR,15,1975,37.1,18
+Tadzhik SSR,15,1976,37.5,
+Tadzhik SSR,15,1977,37.4,
+Tadzhik SSR,15,1978,37.3,
